@@ -145,3 +145,57 @@ try {
         </div>
     </div>
 </section>
+
+<!-- Project Development & Team -->
+<section class="py-5 bg-secondary-subtle rounded-4 mb-5 mx-2" style="background-color: var(--bg-secondary) !important;">
+    <div class="container px-4">
+        <div class="row align-items-center">
+            <div class="col-lg-6 mb-4 mb-lg-0">
+                <h2 class="h1 mb-3 brand-font">Project Development & Team</h2>
+                <p class="text-secondary mb-4">
+                    NextHire was conceptualized and developed by <strong>Team Innovex</strong> from the Department of Computer Science and Engineering, as a software engineering project proposal on 20 May 2026.
+                </p>
+                <ul class="list-unstyled text-secondary">
+                    <li class="mb-2"><i class="fa-solid fa-circle-check text-primary me-2"></i><strong>Afsana</strong> (Team Leader)</li>
+                    <li class="mb-2"><i class="fa-solid fa-circle-check text-primary me-2"></i><strong>Sabiha Akter</strong> (Database Administrator)</li>
+                    <li class="mb-2"><i class="fa-solid fa-circle-check text-primary me-2"></i><strong>Tasnim Ahmed Arnob</strong> (Backend Engineer)</li>
+                    <li class="mb-2"><i class="fa-solid fa-circle-check text-primary me-2"></i><strong>Mahbubur Rahman Antor</strong> (UI/UX & Frontend Developer)</li>
+                    <li class="mb-2"><i class="fa-solid fa-circle-check text-primary me-2"></i><strong>Shouvik Biswas</strong> (SQA Engineer & Business Analyst)</li>
+                </ul>
+            </div>
+            <div class="col-lg-6">
+                <div class="card-premium p-4 text-center">
+                    <h3 class="h4 mb-4">Project Methodology</h3>
+                    <div class="row text-center g-3">
+                        <div class="col-6">
+                            <div class="p-3 bg-dark rounded-3 border border-secondary">
+                                <i class="fa-solid fa-arrows-spin text-info fs-3 mb-2"></i>
+                                <div class="fw-bold text-light" style="font-size: 0.9rem;">Agile Process</div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="p-3 bg-dark rounded-3 border border-secondary">
+                                <i class="fa-solid fa-database text-warning fs-3 mb-2"></i>
+                                <div class="fw-bold text-light" style="font-size: 0.9rem;">PDO & SQL</div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="p-3 bg-dark rounded-3 border border-secondary">
+                                <i class="fa-solid fa-robot text-success fs-3 mb-2"></i>
+                                <div class="fw-bold text-light" style="font-size: 0.9rem;">Local / API NLP</div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="p-3 bg-dark rounded-3 border border-secondary">
+                                <i class="fa-solid fa-laptop-code text-primary fs-3 mb-2"></i>
+                                <div class="fw-bold text-light" style="font-size: 0.9rem;">Bootstrap 5</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<?php require_once __DIR__ . '/footer.php'; ?>
