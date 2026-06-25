@@ -132,3 +132,16 @@ try {
                     <p class="text-secondary">Full logical isolation of applicant databases, dashboards, job posts, and API keys between registered organizations.</p>
                 </div>
             </div>
+
+            <div class="col-md-4">
+                <div class="card-premium h-100 mt-4">
+                    <div class="feature-icon-wrapper">
+                        <i class="fa-solid fa-paste"></i>
+                    </div>
+                    <h3 class="h4 mb-3">Onboarding Board</h3>
+                    <p class="text-secondary">Track accepted applicants across all roles in an organized, centralized portal to transition candidates into onboarding.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
