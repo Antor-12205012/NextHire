@@ -49,3 +49,27 @@ try {
         </div>
     </div>
 </section>
+
+<!-- Stats Tracker -->
+<div class="container mb-5">
+    <div class="row justify-content-center">
+        <div class="col-md-10">
+            <div class="card-premium">
+                <div class="row text-center">
+                    <div class="col-md-4 border-end border-secondary py-3">
+                        <div class="h1 fw-bold text-primary brand-font mb-1"><?php echo max(3, $total_companies); ?>+</div>
+                        <div class="text-secondary text-uppercase fw-bold" style="font-size: 0.75rem;">Registered Partners</div>
+                    </div>
+                    <div class="col-md-4 border-end border-secondary py-3">
+                        <div class="h1 fw-bold text-success brand-font mb-1"><?php echo max(12, $total_jobs); ?>+</div>
+                        <div class="text-secondary text-uppercase fw-bold" style="font-size: 0.75rem;">Active Job Openings</div>
+                    </div>
+                    <div class="col-md-4 py-3">
+                        <div class="h1 fw-bold text-warning brand-font mb-1"><?php echo max(150, $total_applicants); ?>+</div>
+                        <div class="text-secondary text-uppercase fw-bold" style="font-size: 0.75rem;">Resumes Analyzed</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
