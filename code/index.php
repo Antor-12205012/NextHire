@@ -73,3 +73,62 @@ try {
         </div>
     </div>
 </div>
+
+<!-- Features Section -->
+<section class="py-5 mb-5">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="h1 mb-3 brand-font">End-to-End Recruitment Automation</h2>
+            <p class="text-secondary">NextHire replaces tedious administrative processes with intelligent, structured workflows.</p>
+        </div>
+        
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card-premium h-100">
+                    <div class="feature-icon-wrapper">
+                        <i class="fa-solid fa-file-invoice"></i>
+                    </div>
+                    <h3 class="h4 mb-3">Structured CV Storage</h3>
+                    <p class="text-secondary">Upload PDF or text resumes directly. The platform extracts content, saving it into a structured, searchable, and secure relational database.</p>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="card-premium h-100">
+                    <div class="feature-icon-wrapper">
+                        <i class="fa-solid fa-bolt"></i>
+                    </div>
+                    <h3 class="h4 mb-3">AI Matching & Ranking</h3>
+                    <p class="text-secondary">We score and rank applicants instantly using NLP patterns or generative APIs, evaluating their qualifications against your specific criteria.</p>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="card-premium h-100">
+                    <div class="feature-icon-wrapper">
+                        <i class="fa-solid fa-user-check"></i>
+                    </div>
+                    <h3 class="h4 mb-3">Smart Shortlisting</h3>
+                    <p class="text-secondary">Set your interview limits per position. NextHire automatically identifies and flags the top candidates, streamlining your selection stages.</p>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="card-premium h-100 mt-4">
+                    <div class="feature-icon-wrapper">
+                        <i class="fa-solid fa-comments"></i>
+                    </div>
+                    <h3 class="h4 mb-3">Recruiter Chat Board</h3>
+                    <p class="text-secondary">Discuss candidate profiles, share feedback, and coordinate interviews in real-time with colleagues directly on the platform.</p>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="card-premium h-100 mt-4">
+                    <div class="feature-icon-wrapper">
+                        <i class="fa-solid fa-shield-halved"></i>
+                    </div>
+                    <h3 class="h4 mb-3">Multi-Company Security</h3>
+                    <p class="text-secondary">Full logical isolation of applicant databases, dashboards, job posts, and API keys between registered organizations.</p>
+                </div>
+            </div>
